@@ -1,1 +1,223 @@
-testes
+[
+  {
+    "content": null,
+    "embed": {
+      "title": "O ARSENAL CHEGOU COM O PÉ NA PORTA!",
+      "description": "O **Jonjon** estreou na 9ª temporada com o time londrino na Segunda Divisão já fazendo história. Campanha AVASSALADORA e título! Parabéns ao técnico, que promete dar trabalho na Divisão Elite!",
+      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
+      "color": 16711680,
+      "author": {
+        "name": "Segunda Divisão",
+        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1386408316271333386/taca_full_com_letras.png?ex=685998dc&is=6858475c&hm=e24bf3a699b9e973be4c4128069e0e3ac5944588417e402b5266f9de0c0bfe7d&=&format=webp&quality=lossless&width=968&height=968"
+      },
+      "footer": {
+        "text": "📰 Notícias"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1383924359193694260/arsenal.png?ex=6858787f&is=685726ff&hm=2a19a78b8a77045a972442d3f777a9e47af9a9e23b2b8c1f9edfbf6d3a7d36d6&=&format=webp&quality=lossless&width=1536&height=864"
+      },
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386428870676451438/arsenal_hq.png?ex=6859ac01&is=68585a81&hm=cb7750d862acdab94cd3ec537871baf1936a841c40bab87911475e454adc1d6e&=&format=webp&quality=lossless&width=968&height=968"
+      },
+      "fields": [
+        { "name": "Técnico:", "value": "Jonjon", "inline": true },
+        { "name": "Detalhes:", "value": "Campeão estreante na Liga", "inline": true }
+      ]
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "ATLÉTICO DE MADRID: O NOVO REI DA ELITE!",
+      "description": "Uma campanha simplesmente INCRÍVEL do técnico **vitera** na **Liga PES 6 Brasil**! O Atlético venceu a Divisão Elite de forma **I-N-V-I-C-T-A!** Parabéns ao técnico, que conquista seu 4º título na liga! :clap:",
+      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
+      "color": 13248038,
+      "author": {
+        "name": "Divisão Elite",
+        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1386411124475564125/taca_elite_icon.png?ex=68599b7a&is=685849fa&hm=92b6ff247005a78a56ab1fec9e3e64af8c19a70b0deb2147a5e9076d83378b38&=&format=webp&quality=lossless"
+      },
+      "footer": {
+        "text": "📰 Notícias"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1383924376331878400/atleti.png?ex=68592143&is=6857cfc3&hm=809d9d77ef1459ca19530fa2f0ff71ecb755e297ff9e6071afaa165128b7f86d&=&format=webp&quality=lossless&width=1536&height=864"
+      },
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386412069720559678/atleti.png?ex=68599c5b&is=68584adb&hm=a274401c523ae18f8504fe491838ad2c45a226ff767abe6e5f90a1935417b6cc&=&format=webp&quality=lossless"
+      },
+      "fields": [
+        { "name": "Técnico:", "value": "vitera", "inline": true },
+        { "name": "Detalhes:", "value": "4x Campeão da Elite", "inline": true }
+      ]
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "O RIVER PLATE DOMINOU O DESAFIO!",
+      "description": "No Desafio da Comunidade, apenas um conseguiu cumprir DUAS missões... E esse cara foi o **TOM**, cumprindo a última missão com o **River Plate**. Parabéns pela conquista estratégica e merecida! :clap:",
+      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
+      "color": 13248038,
+      "author": {
+        "name": "Desafio da Comunidade",
+        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1386424931419426997/taca_desafios.png?ex=6859a856&is=685856d6&hm=c46b57d1fb745beca3f2cc419735e7aa73c082fe36e9c96b71f41b8f98357da1&=&format=webp&quality=lossless"
+      },
+      "footer": {
+        "text": "📰 Notícias"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1383980515249356850/river.png?ex=6859558b&is=6858040b&hm=1a5c3c18e22a212c80f65820cfea054f3ce3b47a16b2026f8d1fb42e7617bbf2&=&format=webp&quality=lossless&width=1536&height=864"
+      },
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386428786504892496/riverplate_hq.png?ex=6859abed&is=68585a6d&hm=aaf5011f583f4dd2074b473c7e02693fd6c410b41673cce4c206e63a1ed83348&=&format=webp&quality=lossless&width=968&height=968"
+      },
+      "fields": [
+        { "name": "Técnico:", "value": "TOM", "inline": true },
+        { "name": "Desafio:", "value": "A Regra de Ouro", "inline": true }
+      ]
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "Utilize o FRAPS para tirar PRINTS",
+      "description": "Além do celular, você pode utilizar o programa **Fraps** para tirar prints dos games. Nele, você acompanha o FPS dos seus jogos, printar e ainda por cima consegue criar vídeos gravando a tela de seus jogos.\n\n**[CLIQUE AQUI](https://discord.com/channels/1188895171555889212/1234280652329713664/1234280750518505533)** e acesse o vídeo tutorial e o download!",
+      "color": 14007621,
+      "author": {
+        "name": "Dicas",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Emoji_u1f4a1.svg/1024px-Emoji_u1f4a1.svg.png"
+      },
+      "footer": {
+        "text": "📦 Utilitários"
+      },
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1234280652329713664/1234280652417929258/frapsss.png?ex=6859362f&is=6857e4af&hm=bb0e8a5ffcf5fd70ff7d139839c306194fcc33e6c6a8c9a5a6fdf136b147fc70&=&format=webp&quality=lossless"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "SALVE SUAS FORMAÇÕES E GANHE TEMPO!",
+      "description": "Aprenda a salvar suas formações e carregue-as rapidamente nos próximos jogos para agilizar sua preparação! Chega de perder tempo ajustando tudo de novo a cada partida. Assista ao vídeo e veja como é simples deixar tudo pronto!\n\n**[CLIQUE AQUI](https://discord.com/channels/1188895171555889212/1267635136250253323/1267635170614186005)** e acesse o vídeo tutorial!",
+      "color": 14007621,
+      "author": {
+        "name": "Dicas",
+        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Emoji_u1f4a1.svg/1024px-Emoji_u1f4a1.svg.png"
+      },
+      "footer": {
+        "text": "📦 Utilitários"
+      },
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1267635136250253323/1267635136728666223/forma.png?ex=685943f8&is=6857f278&hm=324ec733aeb27129ce473bc45e95ea2c8b77acd3130699ddff4d7283b925aa2b&=&format=webp&quality=lossless"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "SIGA A LIGA PES 6 BRASIL NO INSTA!",
+      "description": "É mais ativo por lá? Então segue o perfil e acompanhe a classificações final, calendário da temporada e novidades do **Patch Masters** e da **Liga PES 6 Brasil**! Compartilhe também com seus amigos e ajude a comunidade dos amantes do PES 6 a crescer! :purple_heart:\n\nhttps://www.instagram.com/ligapes6brasil",
+      "url": "https://www.instagram.com/ligapes6brasil",
+      "color": 11281861,
+      "footer": {
+        "text": "📢 Divulgações"
+      },
+      "thumbnail": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "VEM PRO GRUPO NO WHATS TAMBÉM!",
+      "description": "Entre no grupo da **Liga PES 6 Brasil** pra não perder os comentários dos técnicos participantes, atualizações, e acompanha em primeira mão, as vagas pra liga e para torneios de fim de temporada! Compartilhe com seus amigos pra jogar junto! :blush:\n\nhttps://chat.whatsapp.com/K06oHilM0Q7CiLIPkWicOW",
+      "url": "https://chat.whatsapp.com/K06oHilM0Q7CiLIPkWicOW",
+      "color": 2461968,
+      "footer": {
+        "text": "📢 Divulgações"
+      },
+      "thumbnail": {
+        "url": "https://portais.univasf.edu.br/programadegestao/imagens/icon-whatsapp.png/@@images/image.png"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "GRUPO OFICIAL PES 6 BRASIL!",
+      "description": "Quer estar por dentro de tudo sobre o **PES 6** e ainda trocar ideia diretamente com a **equipe desenvolvedora** do Patch Masters? Então entre no Telegram Oficial da PES 6 Brasil! Lá você pode discutir sobre o game, reportar problemas, compartilhar dicas e acompanhar as novidades que estão por vir. É a comunidade oficial que mantém o jogo vivo e em constante evolução! Participe e fortaleça o **Patch Masters**!\n\nhttps://t.me/pes6brasil",
+      "url": "https://t.me/pes6brasil",
+      "color": 575355,
+      "footer": {
+        "text": "📢 Divulgações"
+      },
+      "thumbnail": {
+        "url": "https://pes6.com.br/wp-content/uploads/2023/01/emblema-pes6brasil-148-171-2.png"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "VISITE O SITE OFICIAL PES 6 BRASIL!",
+      "description": "Quer deixar o seu game ainda mais incrível? Lá no site da PES 6 Brasil você encontra tudo o que precisa:\n:white_check_mark: O **Patch Masters** e as novas atualizações\n:white_check_mark: Pacotes com novos estádios, chuteiras, bolas e faces\n:white_check_mark: Trilhas sonoras personalizadas\n:white_check_mark: e muito mais para turbinar sua experiência no jogo!\n\nvisite: https://pes6.com.br",
+      "url": "https://pes6.com.br",
+      "color": 575355,
+      "footer": {
+        "text": "📢 Divulgações"
+      },
+      "thumbnail": {
+        "url": "https://pes6.com.br/wp-content/uploads/2023/01/emblema-pes6brasil-148-171-2.png"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "SIGA A PÁGINA OFICIAL PES 6 BRASIL NO INSTA!",
+      "description": "Lá você acompanha tudo o que rola na comunidade, novidades sobre o Patch Masters, registro para o game online, dicas de ferramentas para melhoria do game, e tudo isso em primeira mão para turbinar a experiência do seu jogo.\n\nhttps://www.instagram.com/pes6brasil",
+      "url": "https://www.instagram.com/pes6brasil",
+      "color": 11281861,
+      "footer": {
+        "text": "📢 Divulgações"
+      },
+      "thumbnail": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": "ACESSE A GALERIA DE CAMPEÕES DA LIGA!",
+      "description": "Quer saber quem já escreveu seu nome na história da nossa liga? Confira a **Galeria de Campeões** e veja as lendas que já conquistaram títulos ao longo das temporadas! Acesse agora e inspire-se!\n\n**[CLIQUE AQUI](https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910)** e reaja _(exemplo abaixo)_ aos campeões das temporadas, como forma de parabenizá-los pela conquista.",
+      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
+      "color": 16230946,
+      "footer": {
+        "text": "✨ para você"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386466051692298382/reagindo.gif?ex=6859cea2&is=68587d22&hm=771b0564d7fe938f40ef423dafa118391ca23189ea646c6a84ff8e64deed577a&="
+      },
+      "thumbnail": {
+        "url": "https://images.emojiterra.com/google/android-12l/512px/1f3c6.png"
+      }
+    }
+  },
+  {
+    "content": null,
+    "embed": {
+      "title": ":popcorn: PEGUE JÁ A PIPOCA",
+      "description": "Assista alguns jogos da **Liga PES 6 Brasil!** Confira a playlist com partidas históricas que marcaram a competição. :tv:\n\n**[Clique aqui e assista no YouTube](https://www.youtube.com/watch?v=D81zKCYyhSw&list=PLtBdSMWad44yFAHkr_GF7hkgf-ZpabTRV)**",
+      "color": 16196130,
+      "footer": {
+        "text": "✨ para você"
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/D81zKCYyhSw/maxresdefault.jpg"
+      }
+    }
+  }
+]
