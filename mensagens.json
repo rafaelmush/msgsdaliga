@@ -1,82 +1,29 @@
 [
   {
-    "content": null,
-    "embed": {
-      "title": "O ARSENAL CHEGOU COM O PÉ NA PORTA!",
-      "description": "O **Jonjon** estreou na 9ª temporada com o time londrino na Segunda Divisão já fazendo história. Campanha AVASSALADORA e título! Parabéns ao técnico, que promete dar trabalho na Divisão Elite!",
-      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
-      "color": 16711680,
+  "content": null,
+  "embeds": [
+    {
+      "title": "SENHORAS E SENHORES, SAÚDEM O REI DE MANCHESTER!",
+      "description": "O jonjon com Manchester United mostraram mais uma vez as suas grandezas na **Liga PES 6 Brasil**!\nCom uma campanha de alto nível, conquistou mais um título da **Divisão Elite**!\nParabéns ao técnico jonjon, agora 3x campeão da liga e 2x campeão da Elite! :clap:",
+      "url": "https://discordapp.com/channels/1188895171555889212/1231265997445664851/1439380026184302787",
+      "color": 15277341,
       "author": {
-        "name": "Segunda Divisão",
-        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1386408316271333386/taca_full_com_letras.png?ex=685998dc&is=6858475c&hm=e24bf3a699b9e973be4c4128069e0e3ac5944588417e402b5266f9de0c0bfe7d&=&format=webp&quality=lossless&width=968&height=968"
+        "name": "Divisão Elite • 11ª Temporada",
+        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1456239073369919610/elite2025.png?ex=6957a3d2&is=69565252&hm=907d7950cf7b159f6b77f017618cb6733eea80aa740fd8556f8c17d7f8276138&=&format=webp&quality=lossless"
       },
       "footer": {
         "text": "📰 Notícias"
       },
       "image": {
-        "url": "https://media.discordapp.net/attachments/1329712501159628890/1383924359193694260/arsenal.png?ex=6858787f&is=685726ff&hm=2a19a78b8a77045a972442d3f777a9e47af9a9e23b2b8c1f9edfbf6d3a7d36d6&=&format=webp&quality=lossless&width=1536&height=864"
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1456238558279892992/PES6_2025-03-23_12-16-28-66.png?ex=6957a357&is=695651d7&hm=06e9884f8f526d993a41adc5f766a6d6ce3990bda4189b63edb48f9ba332a1a7&=&format=webp&quality=lossless&width=1536&height=864"
       },
       "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386428870676451438/arsenal_hq.png?ex=6859ac01&is=68585a81&hm=cb7750d862acdab94cd3ec537871baf1936a841c40bab87911475e454adc1d6e&=&format=webp&quality=lossless&width=968&height=968"
-      },
-      "fields": [
-        { "name": "Técnico:", "value": "Jonjon", "inline": true },
-        { "name": "Detalhes:", "value": "Campeão estreante na Liga", "inline": true }
-      ]
+        "url": "https://media.discordapp.net/attachments/1329712501159628890/1456237736427258061/manunited.png?ex=6957a293&is=69565113&hm=e6f9e915954f0a774c6772e39f5fbc73eb59116350f51c0a69699f4c69e67b7b&=&format=webp&quality=lossless"
+      }
     }
-  },
-  {
-    "content": null,
-    "embed": {
-      "title": "ATLÉTICO DE MADRID: O NOVO REI DA ELITE!",
-      "description": "Uma campanha simplesmente INCRÍVEL do técnico **vitera** na **Liga PES 6 Brasil**! O Atlético venceu a Divisão Elite de forma **I-N-V-I-C-T-A!** Parabéns ao técnico, que conquista seu 4º título na liga! :clap:",
-      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
-      "color": 13248038,
-      "author": {
-        "name": "Divisão Elite",
-        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1386411124475564125/taca_elite_icon.png?ex=68599b7a&is=685849fa&hm=92b6ff247005a78a56ab1fec9e3e64af8c19a70b0deb2147a5e9076d83378b38&=&format=webp&quality=lossless"
-      },
-      "footer": {
-        "text": "📰 Notícias"
-      },
-      "image": {
-        "url": "https://media.discordapp.net/attachments/1329712501159628890/1383924376331878400/atleti.png?ex=68592143&is=6857cfc3&hm=809d9d77ef1459ca19530fa2f0ff71ecb755e297ff9e6071afaa165128b7f86d&=&format=webp&quality=lossless&width=1536&height=864"
-      },
-      "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386412069720559678/atleti.png?ex=68599c5b&is=68584adb&hm=a274401c523ae18f8504fe491838ad2c45a226ff767abe6e5f90a1935417b6cc&=&format=webp&quality=lossless"
-      },
-      "fields": [
-        { "name": "Técnico:", "value": "vitera", "inline": true },
-        { "name": "Detalhes:", "value": "4x Campeão da Elite", "inline": true }
-      ]
-    }
-  },
-  {
-    "content": null,
-    "embed": {
-      "title": "O RIVER PLATE DOMINOU O DESAFIO!",
-      "description": "No Desafio da Comunidade, apenas um conseguiu cumprir DUAS missões... E esse cara foi o **TOM**, cumprindo a última missão com o **River Plate**. Parabéns pela conquista estratégica e merecida! :clap:",
-      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
-      "color": 13248038,
-      "author": {
-        "name": "Desafio da Comunidade",
-        "icon_url": "https://media.discordapp.net/attachments/1329712501159628890/1386424931419426997/taca_desafios.png?ex=6859a856&is=685856d6&hm=c46b57d1fb745beca3f2cc419735e7aa73c082fe36e9c96b71f41b8f98357da1&=&format=webp&quality=lossless"
-      },
-      "footer": {
-        "text": "📰 Notícias"
-      },
-      "image": {
-        "url": "https://media.discordapp.net/attachments/1329712501159628890/1383980515249356850/river.png?ex=6859558b&is=6858040b&hm=1a5c3c18e22a212c80f65820cfea054f3ce3b47a16b2026f8d1fb42e7617bbf2&=&format=webp&quality=lossless&width=1536&height=864"
-      },
-      "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1329712501159628890/1386428786504892496/riverplate_hq.png?ex=6859abed&is=68585a6d&hm=aaf5011f583f4dd2074b473c7e02693fd6c410b41673cce4c206e63a1ed83348&=&format=webp&quality=lossless&width=968&height=968"
-      },
-      "fields": [
-        { "name": "Técnico:", "value": "TOM", "inline": true },
-        { "name": "Desafio:", "value": "A Regra de Ouro", "inline": true }
-      ]
-    }
-  },
+  ],
+  "attachments": []
+},
   {
     "content": null,
     "embed": {
@@ -193,7 +140,7 @@
     "embed": {
       "title": "ACESSE A GALERIA DE CAMPEÕES DA LIGA!",
       "description": "Quer saber quem já escreveu seu nome na história da nossa liga? Confira a **Galeria de Campeões** e veja as lendas que já conquistaram títulos ao longo das temporadas! Acesse agora e inspire-se!\n\n**[CLIQUE AQUI](https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910)** e reaja _(exemplo abaixo)_ aos campeões das temporadas, como forma de parabenizá-los pela conquista.",
-      "url": "https://discord.com/channels/1188895171555889212/1231265997445664851/1383855523056844910",
+      "url": "https://discordapp.com/channels/1188895171555889212/1231265997445664851/1439380026184302787",
       "color": 16230946,
       "footer": {
         "text": "✨ para você"
