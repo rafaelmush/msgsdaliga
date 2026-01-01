@@ -25,23 +25,26 @@
   "attachments": []
 },
   {
-    "content": null,
-    "embed": {
+  "content": null,
+  "embeds": [
+    {
       "title": "Utilize o FRAPS para tirar PRINTS",
       "description": "Além do celular, você pode utilizar o programa **Fraps** para tirar prints dos games. Nele, você acompanha o FPS dos seus jogos, printar e ainda por cima consegue criar vídeos gravando a tela de seus jogos.\n\n**[CLIQUE AQUI](https://discord.com/channels/1188895171555889212/1234280652329713664/1234280750518505533)** e acesse o vídeo tutorial e o download!",
       "color": 14007621,
       "author": {
-        "name": "💡 Dicas",
+        "name": "Dicas",
         "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Emoji_u1f4a1.svg/1024px-Emoji_u1f4a1.svg.png"
       },
       "footer": {
         "text": "📦 Utilitários"
       },
       "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1234280652329713664/1234280652417929258/frapsss.png?ex=6859362f&is=6857e4af&hm=bb0e8a5ffcf5fd70ff7d139839c306194fcc33e6c6a8c9a5a6fdf136b147fc70&=&format=webp&quality=lossless"
+        "url": "https://media.discordapp.net/attachments/1234280652329713664/1234280652417929258/frapsss.png?format=webp&quality=lossless"
       }
     }
-  },
+  ],
+  "attachments": []
+},
   {
     "content": null,
     "embed": {
